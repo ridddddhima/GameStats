@@ -3,10 +3,10 @@
 GameStats is a Python-based project that analyzes gaming-session data and presents performance insights through an interactive Streamlit dashboard.
 
 ## Features
-- FPS, CPU, GPU, RAM and GPU temperature summaries
-- Player leaderboard, KDA and win-rate calculations
-- Charts, filters, descriptive statistics and correlation analysis
-- Jupyter Notebook practicals using the same CSV dataset
+- FPS, CPU, GPU, RAM and GPU temperature summaries.
+- Player leaderboard, KDA and win-rate calculations.
+- Charts, filters, descriptive statistics and correlation analysis.
+- Jupyter Notebook practicals using the same CSV dataset.
 
 ## Files
 - `app.py` — Streamlit dashboard
